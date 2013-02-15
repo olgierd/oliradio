@@ -1,0 +1,3 @@
+compile:
+
+g++ OliRadio.cpp -lfftw3 -lrt -lX11
